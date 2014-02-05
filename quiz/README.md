@@ -28,3 +28,18 @@ PHP
 - Have you used a PHP Debugger before? If so, which do you use?
 - What is your favorite Dependency Manager? Why?
 - How do you feel about OOP PHP? Do you know about patterns? What's your favorite one?
+
+PHP Code
+--------
+
+- What is the problem if you see the following error message:
+```Warning: Cannot modify header information - headers already sent```
+- Write an example use of the empty() function
+- In a function definition, what does an ampersand means before the argument-variable name? ```function doSomething(&$a) {}```
+- What is wrong with this if statement: ```if( !strpos( $haystack, $needle ) ) { something() }```?
+- What is SQL injection and how do you deal with it?
+
+Git
+---
+
+- What is the difference between pull and fetch commands?

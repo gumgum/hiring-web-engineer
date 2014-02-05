@@ -41,3 +41,5 @@ Tests
 -----
 
 1. [Starting Quiz](./quiz)
+2. [FizzBuzz](./fizzbuzz)
+3. [Data Visualizations](./data-visualization)
