@@ -1,7 +1,7 @@
 General Web Application - Weather Mapping
 ======================================
 
-In this exercise you will be creating a two part MVC application. One portion which will handle web service data ingestion, 
+In this exercise you will be creating a two part MVC application. One portion which will handle web service data ingestion
 and one that will handle reporting tools and query generation.
 
 Create a simple MVC vanilla php application using MySQL as a database that works with the following scenario:
